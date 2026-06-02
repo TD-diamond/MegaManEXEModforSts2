@@ -1,0 +1,27 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="MegaManBattleNetwork"
+config/features=PackedStringArray("4.5", "C#", "Mobile")
+
+[dotnet]
+
+project/assembly_name="新建游戏项目"
+
+[editor]
+
+export/convert_text_resources_to_binary=false
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="mobile"

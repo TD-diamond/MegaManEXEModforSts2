@@ -1,0 +1,17 @@
+{
+  "MEGAMANBATTLENETWORK-MEGA_MAN.aromaPrinciple": "[sine][blue]……等待……[/blue][/sine]",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.banter.alive.endTurnPing": "……",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.banter.dead.endTurnPing": "……",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.cardsModifierDescription": "洛克人EXE的卡牌现在会出现在奖励和商店中。",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.cardsModifierTitle": "洛克人卡池",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.description": "来自20XX年的网络世界[gold]洛克人[/gold]。\n是[gold]光热斗[/gold]的搭档。\n他们两人似乎是为了游玩这款游戏而来。",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.eventDeathPrevention": "洛克人！听得到吗！这就让你脱离程序!",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.goldMonologue": "[sine]热斗！这些金币应该能在之后的冒险中发挥作用！[/sine]",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.possessiveAdjective": "他的",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.pronounObject": "他",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.pronounPossessive": "他的",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.pronounSubject": "他",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.title": "洛克人.EXE",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.titleObject": "洛克人",
+  "MEGAMANBATTLENETWORK-MEGA_MAN.unlockText": "用[pink]{Prerequisite}[/pink]进行一局游戏来解锁这个角色。"
+}

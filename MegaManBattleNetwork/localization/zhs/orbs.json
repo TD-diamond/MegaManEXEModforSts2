@@ -1,0 +1,10 @@
+﻿{
+    "MEGAMANBATTLENETWORK-ABSTRACT_ORB.title": "造物",
+    "MEGAMANBATTLENETWORK-ABSTRACT_ORB.description": "造物球将消耗自己的被动数值，替你承受部分伤害。",
+    "MEGAMANBATTLENETWORK-STONE_CUBE_ORB.title": "石块",
+    "MEGAMANBATTLENETWORK-STONE_CUBE_ORB.description": "石块造物将会消耗自身的被动数值为你抵挡伤害。",
+    "MEGAMANBATTLENETWORK-STONE_CUBE_ORB.smartDescription": "被动:当受到攻击时，吸收攻击对应数值-1的伤害，被动的数值减少这个数量。\n激发:无",
+    "MEGAMANBATTLENETWORK-POISON_STATUE_ORB.title": "毒气雕像",
+    "MEGAMANBATTLENETWORK-POISON_STATUE_ORB.description": "每回合开始时，为所有敌人施加中毒。",
+    "MEGAMANBATTLENETWORK-POISON_STATUE_ORB.smartDescription": "被动:每回合开始时，为所有敌人施加[blue]5[/blue]层[gold]中毒[/gold]。\n激发:无"
+}

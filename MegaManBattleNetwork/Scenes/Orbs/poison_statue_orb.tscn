@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://MegaManBattleNetwork/Images/Orbs/poison_statue.png" id="1_lbo6c"]
+
+[node name="PoisonStatueOrb" type="Node2D"]
+
+[node name="Icon" type="Sprite2D" parent="."]
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("1_lbo6c")

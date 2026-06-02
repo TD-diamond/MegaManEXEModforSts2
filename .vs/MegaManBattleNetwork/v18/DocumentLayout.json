@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|f:\\a_myrepositories\\githubrepositories\\megamanbattlenetworkpowerarea\\src\\cards\\megabuster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|solutionrelative:src\\cards\\megabuster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|f:\\a_myrepositories\\githubrepositories\\megamanbattlenetworkpowerarea\\megamanbattlenetwork.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|solutionrelative:megamanbattlenetwork.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|f:\\a_myrepositories\\githubrepositories\\megamanbattlenetworkpowerarea\\src\\relics\\relicabstracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|solutionrelative:src\\relics\\relicabstracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|f:\\a_myrepositories\\githubrepositories\\megamanbattlenetworkpowerarea\\src\\cards\\cardabstracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736849AF-3050-46C8-90C6-26921CFA1E87}|MegaManBattleNetwork.csproj|solutionrelative:src\\cards\\cardabstracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MegaManBattleNetwork",
+              "DocumentMoniker": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\MegaManBattleNetwork.csproj",
+              "RelativeDocumentMoniker": "MegaManBattleNetwork.csproj",
+              "ToolTip": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\MegaManBattleNetwork.csproj",
+              "RelativeToolTip": "MegaManBattleNetwork.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T14:09:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MegaBuster.cs",
+              "DocumentMoniker": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Cards\\MegaBuster.cs",
+              "RelativeDocumentMoniker": "Src\\Cards\\MegaBuster.cs",
+              "ToolTip": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Cards\\MegaBuster.cs",
+              "RelativeToolTip": "Src\\Cards\\MegaBuster.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:08:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardAbstracts.cs",
+              "DocumentMoniker": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Cards\\CardAbstracts.cs",
+              "RelativeDocumentMoniker": "Src\\Cards\\CardAbstracts.cs",
+              "ToolTip": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Cards\\CardAbstracts.cs",
+              "RelativeToolTip": "Src\\Cards\\CardAbstracts.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:27:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelicAbstracts.cs",
+              "DocumentMoniker": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Relics\\RelicAbstracts.cs",
+              "RelativeDocumentMoniker": "Src\\Relics\\RelicAbstracts.cs",
+              "ToolTip": "F:\\A_MyRepositories\\GithubRepositories\\MegaManBattleNetworkPowerArea\\Src\\Relics\\RelicAbstracts.cs",
+              "RelativeToolTip": "Src\\Relics\\RelicAbstracts.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:24:28.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
